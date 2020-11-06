@@ -5,6 +5,7 @@
 - [SVG OMG](https://jakearchibald.github.io/svgomg/)
 - [CSS clip-path maker](https://bennettfeely.com/clippy/)
 - [Eggradients](https://www.eggradients.com/)
+- [Blobmaker](https://www.blobmaker.app/)
 
 ## Design inspiration
 - [Mobbin](https://mobbin.design/)
