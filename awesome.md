@@ -10,3 +10,6 @@
 ## Design inspiration
 - [Mobbin](https://mobbin.design/)
 - [Dribbble](https://dribbble.com/)
+
+## CSS reset
+- [A modern css reset](https://dev.to/hankchizljaw/a-modern-css-reset-6p3)
