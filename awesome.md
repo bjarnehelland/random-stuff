@@ -15,4 +15,4 @@
 - [A modern css reset](https://dev.to/hankchizljaw/a-modern-css-reset-6p3)
 
 ## Code
-- [Clean javascript code](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Clean code](https://github.com/ryanmcdermott/clean-code-javascript)
